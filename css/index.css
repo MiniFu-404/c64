@@ -16,7 +16,7 @@
     }
 
 /* Estilos para móvil landscape */
-    @@media (max-width: 576px) and (orientation: landscape) {
+    @media (max-width: 576px) and (orientation: landscape) {
     body {
         background-color: #ff0000;
     }
