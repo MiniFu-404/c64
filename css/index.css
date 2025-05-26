@@ -16,14 +16,14 @@
     }
 
 /* Estilos para móvil landscape */
-    @media only screen and (min-width: 320px) and (max-width: 736px) and (orientation: landscape) {
+    @@media (max-width: 576px) and (orientation: landscape) {
     body {
         background-color: #ff0000;
     }
 }
 
 /* Estilos para tablet portrait */
-    @media (min-width: 600px) and (max-width: 767px) and (orientation: portrait) {
+    @media (min-width: 577px) and (max-width: 767px) and (orientation: portrait) {
     body {
         background-color: #83eb86;
     }
